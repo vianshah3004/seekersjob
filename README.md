@@ -43,7 +43,7 @@ seekersjob-main/
 ## 📌 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vianshah/seekersjob-main.git
+   git clone https://github.com/vianshah3004/seekersjob.git
    ```
 2. Open index.html in any modern browser.
 
