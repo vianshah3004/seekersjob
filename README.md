@@ -14,7 +14,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [Live Website](https://seekersjob.vercel.app) *(optional: update with working link)*
+🔗 [Live Website](https://seekersjob.vercel.app) 
 
 ## 💻 Tech Stack
 
